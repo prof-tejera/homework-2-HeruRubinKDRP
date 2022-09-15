@@ -1,5 +1,8 @@
 # Homework 2 - Dev Setup and Deployment
 
+Student: Heru Rubin
+URL: https://homework-2-heru-rubin-kdrp.vercel.app/
+
 This assignment is intented to help you set up your development environment for React. You will create a simple React App and deploy using one of the methods covered in lecture.
 
 ## Step 1
